@@ -1,5 +1,7 @@
 # Weather Analysis Report
 
+![Weather Dashboard](https://github.com/KumarBoste/Weather_Analysis/blob/main/Power%20BI%20Dashboard/Weather%20Analysis%20Dashboard.png)
+
 ## STEP 1 : Get Your Weather API key
 1. Sign up to [WeatherAPI.com](https://weatherapi.com/) , then copy your API Key.
 2. You will use this key to authenticate API calls.
